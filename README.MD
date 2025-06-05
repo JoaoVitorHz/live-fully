@@ -1,4 +1,4 @@
-# React Native Login App
+# Teste Tecnico - Live Fully
 
 Aplicativo React Native usando Expo, NativeBase, React Hook Form, Zod, Axios e AsyncStorage para autenticação.
 
